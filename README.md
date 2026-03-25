@@ -54,7 +54,9 @@ JDBC
 Programs related to:
 
 HashMap
+
 HashMap Methods
+
 
 
 🔹 Mauli_Website_Servlet5
@@ -62,10 +64,15 @@ HashMap Methods
 This project includes:
 
 Servlet
+
 JSP
+
 Form Handling
+
 Request & Response
+
 Session Management
+
 
 Technologies Used:
 
@@ -74,44 +81,72 @@ JSP
 Tomcat Server
 
 
+
 🔹 RamHibernateDemo2
 
 This project demonstrates:
 
 Hibernate Configuration
+
 Entity Class
+
 Hibernate CRUD Operations
+
 Database Mapping
+
 
 Technologies Used:
 
 Hibernate
 MySQL
 Java
+
+
 🚀 Technologies Used
+
 Java
+
 JDBC
+
 Servlet
+
 JSP
+
 Hibernate
+
 MySQL
+
 Eclipse IDE
+
 🎯 Purpose
+
 
 This repository is created for:
 
 Learning Advance Java
+
 Practice Programs
+
 Interview Preparation
+
 Backend Development Skills
+
 👨‍💻 Author
 
+
 Prathmesh Dongale
+
 Advance Java Learner
-Data Science Engineering Student
+
+
 
 ⭐ Future Improvements
+
 Spring Boot Projects
-REST API Development
+
+REST API Developmen
+
 Microservices
+
 Advanced Hibernate
+
