@@ -13,14 +13,19 @@ Map Interface,
 Database Connectivity.
 
 📂 Project Structure
+
 🔹 Collection
 
 Practice programs related to:
 
 List
+
 Set
+
 Map
+
 Iterator
+
 
 
 
@@ -29,11 +34,15 @@ Iterator
 This project includes:
 
 Database Connection
+
 CRUD Operations
+
 Prepared Statement
+
 ResultSet handling
 
 Technologies Used:
+
 
 Java
 MySQL
