@@ -5,12 +5,13 @@ This repository contains Advance Java Practice Programs implemented for learning
 
 The projects cover important Advance Java concepts including:
 
-JDBC
-Collections Framework
-Hibernate
-Servlet
-Map Interface
-Database Connectivity
+JDBC, 
+Collections Framework, 
+Hibernate, 
+Servlet, 
+Map Interface, 
+Database Connectivity.
+
 📂 Project Structure
 🔹 Collection
 
